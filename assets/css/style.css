@@ -1,0 +1,84 @@
+/*
+ *   Copyright (c) 2021 SHUBHAM SHARMA
+ *   All rights reserved.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+
+
+.navbar{
+  top: 30px;
+  font-family: Inconsolata;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+.main{
+  padding-top: 120px;
+}
+
+
+ /* I have bad news for you */
+.titel{
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  color: #333333;
+}
+
+ /* The page you are looking for might be removed or is temporarily unavailable */
+.text{
+  padding: 36px 280px 64px 0px;
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.050em;
+  color: #4F4F4F;
+
+}
+
+ /* Back to homepage button */
+.btn-primary{
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  background-color: #4F4F4F !important;
+}
+
+
+@media only screen and (max-width: 550px) {
+
+.nav-item{
+  padding: 0px 0px 0px 15px;
+}
+.titel{
+  margin-top: 30px;
+  font-size: 48px;
+  line-height: 71px;
+}
+
+
+.main{
+  padding-top: 50px;
+}
+
+.text{
+  margin-top: 30px;
+  margin-bottom: 66px;
+  padding: 0px;
+}
+}

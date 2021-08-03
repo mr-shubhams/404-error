@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Desktop Overview](#overview)
-- [Mobile Overview](#moverview)
+- [Mobile Overview](#mobile-overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
@@ -41,7 +41,7 @@
  With this challenge I improved my HTML, CSS & Bootstrap Skills.
 
 
- ## Moverview
+ ## Mobile Overview
 
 ![screenshot](./assets/img/m.png)
 
